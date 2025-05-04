@@ -1,52 +1,90 @@
-Course Code,Course Name,Time,Day,Professor,Type (LEC/LAB)
-IT 6314A,Multimedia Systems,8:00-8:30 AM,Monday,Mr. Alexis Morales,LEC
-IT 6314A,Multimedia Systems Lab,10:30-11:00 AM,Monday,Mr. Alexis Morales,LAB
-COMP 6103,Current Trends and Issues,8:00-8:30 AM,Wednesday,Mr. Alexis Morales,LEC
-COMP 6103,Current Trends and Issues Lab,10:30-11:00 AM,Wednesday,Mr. Alexis Morales,LAB
-IT 6322A,Mobile Programming 1,8:00-8:30 AM,Friday,Mr. Alexis Morales,LEC
-IT 6322A,Mobile Programming 1 Lab,10:30-11:00 AM,Friday,Mr. Alexis Morales,LAB
-IT 6324A,Mobile Applications Design and Development 2,1:00-1:30 PM,Wednesday,Mr. Alexis Morales,LEC
-IT 6324A,Mobile Applications Lab,3:30-4:00 PM,Wednesday,Mr. Alexis Morales,LAB
-ITE6220,Information Management,1:00-1:30 PM,Friday,Mr. Alexis Morales,LEC
-ITE6220,Information Management Lab,3:30-4:00 PM,Friday,Mr. Alexis Morales,LAB
-BLC 6201,Blockchain Programming 1 (Python),1:00-1:30 PM,Saturday,Mr. Alexis Morales,LEC
-BLC 6201,Blockchain Programming 1 Lab,3:30-4:00 PM,Saturday,Mr. Alexis Morales,LAB
-IT 6203A,Advanced Database Management Systems,8:00-8:30 AM,Tuesday,Ms. Justin Nevpes,LEC
+IT 6283,"🧪 ""Mysterious Lab Shenanigans (a.k.a. The Course With No Name)""",11:00-12:00 PM,Thursday,Faculty 2,LAB
+CYBS 6271,"🧪 ""Mysterious Lab Shenanigans (a.k.a. The Course With No Name)""",1:30-2:30 PM,Wednesday,Faculty 2,LAB
+IT 6318A,2D Game Art Development,1:30-2:30 PM,Thursday,Faculty 2,LEC
+IT 6318A,2D Game Art Development Lab,4:00-5:00 PM,Thursday,Faculty 2,LAB
 IT 6203A,Advanced Database Lab,8:30-9:00 AM,Tuesday,Ms. Justin Nevpes,LAB
-IT 6301B/IT6302A,Human-Computer Interaction,8:00-8:30 AM,Wednesday,Ms. Justin Nevpes,LEC
-IT 6301B,Human-Computer Interaction Lab,8:30-9:00 AM,Wednesday,Ms. Justin Nevpes,LAB
+IT 6203A,Advanced Database Management Systems,8:00-8:30 AM,Tuesday,Ms. Justin Nevpes,LEC
 CYBS 6101/AI 6110,AI Fundamentals (Section 1),8:00-8:30 AM,Thursday,Ms. Justin Nevpes,LEC
 CYBS 6101,AI Fundamentals Lab,8:30-9:00 AM,Thursday,Ms. Justin Nevpes,LAB
-IT 6314,Web Application Development 1,1:30-2:00 PM,Tuesday,Ms. Justin Nevpes,LEC
-IT 6314,Web Application Lab,3:30-4:00 PM,Tuesday,Ms. Justin Nevpes,LAB
-ITE 6200/6301A,Application Dev/Emerging Tech,1:30-2:00 PM,Wednesday,Ms. Justin Nevpes,LEC
-ITE 6200,Application Dev Lab,3:30-4:00 PM,Wednesday,Ms. Justin Nevpes,LAB
 AI 6100,AI Prompt Engineering,1:30-2:00 PM,Thursday,Ms. Justin Nevpes,LEC
 AI 6100,AI Prompt Engineering Lab,3:30-4:00 PM,Thursday,Ms. Justin Nevpes,LAB
-CS 6202A,Discrete Structures 1,8:30-9:00 AM,Thursday,Dr. Richard Monreal,LEC
-CS 6301,Logic Design & Digital Circuits,1:00-1:30 PM,Thursday,Dr. Richard Monreal,LEC
-CS 6301,Logic Design Lab,3:30-4:00 PM,Thursday,Dr. Richard Monreal,LAB
-IT 6205A/6301C,Information Assurance and Security 1,8:00-8:30 AM,Wednesday,Dr. Ronel Jaron Bilog,LEC
-IT 6205A,Info Assurance Lab,10:30-11:00 AM,Wednesday,Dr. Ronel Jaron Bilog,LAB
-CS 6105,Discrete Mathematics,9:30-10:00 AM,Saturday,Dr. Ronel Jaron Bilog,LEC
+IT 6313A,Animation Project,1:30-2:30 PM,Friday,Faculty 2,LEC
+IT 6313A,Animation Project Lab,4:00-5:00 PM,Friday,Faculty 2,LAB
+ITE 6200,Application Dev Lab,3:30-4:00 PM,Wednesday,Ms. Justin Nevpes,LAB
+ITE 6200/6301A,Application Dev/Emerging Tech,1:30-2:00 PM,Wednesday,Ms. Justin Nevpes,LEC
+BLC 6201,Blockchain Programming 1 (Python),1:00-1:30 PM,Saturday,Mr. Alexis Morales,LEC
+BLC 6201,Blockchain Programming 1 Lab,3:30-4:00 PM,Saturday,Mr. Alexis Morales,LAB
+CYBS 6271,Component Security (Controls),1:30-2:00 PM,Thursday,Mr. Dennis Martin Felix,LEC
+CS 6204,Computer Architecture and Organization,1:30-2:00 PM,Monday,Faculty 1,LEC
+CS 6204,Computer Architecture Lab,3:30-4:00 PM,Tuesday,Faculty 1,LAB
 AI 6106,Computer Programming (Python),1:30-2:00 PM,Wednesday,Dr. Ronel Jaron Bilog,LEC
-AI 6106,Python Programming Lab,3:30-4:00 PM,Wednesday,Dr. Ronel Jaron Bilog,LAB
-IT 6209,Introduction to Multimedia,1:30-2:00 PM,Saturday,Dr. Ronel Jaron Bilog,LEC
-IT 6209,Multimedia Lab,3:30-4:00 PM,Saturday,Dr. Ronel Jaron Bilog,LAB
-IT 6283,Platform Technologies 2,8:00-8:30 AM,Monday,Mr. Dennis Martin Felix,LEC
-IT 6283,Platform Tech Lab,10:00-10:30 AM,Monday,Mr. Dennis Martin Felix,LAB
-IT 6304,Integrative Programming and Tech 2,8:00-8:30 AM,Tuesday,Mr. Dennis Martin Felix,LEC
-IT 6304,Integrative Programming Lab,10:00-10:30 AM,Tuesday,Mr. Dennis Martin Felix,LAB
+Course Code,Course Name,Time,Day,Professor,Type (LEC/LAB)
+CS 6305/6401A,CS Practicum,2:30-3:00 PM,Thursday,Ms. Carmencita Rabano,LAB
+CS 6306A,CS Thesis Writing 1,1:00-1:30 PM,Monday,Dr. Maksuda Sultana,LEC
+COMP 6103,Current Trends and Issues,8:00-8:30 AM,Wednesday,Mr. Alexis Morales,
+COMP 6103,Current Trends and Issues Lab,10:30-11:00 AM,Wednesday,Mr. Alexis Morales,LAB
+CYBS 6375,Cyber Forensics Lab,10:30-11:00 AM,Tuesday,Faculty 1,LAB
+CYBS 6398,Cyber Security Capstone Project 1,2:00-2:30 PM,Monday,Dr. Maksuda Sultana,LEC
+CYBS 6300,Cyber Security Internship,1:30-2:00 PM,Thursday,Ms. Carmencita Rabano,LEC
 CYBS 6270,Data and Communication Security,8:00-8:30 AM,Thursday,Mr. Dennis Martin Felix,LEC
-ITE 6206,Info Assurance and Security 2 (Web Attacks),1:30-2:00 PM,Monday,Mr. Dennis Martin Felix,LEC
-ITE 6206,Web Attacks Lab,3:00-3:30 PM,Monday,Mr. Dennis Martin Felix,LAB
+IT 6304A,Data Communications and Networking 4,1:30-2:00 PM,Thursday,Faculty 3,LEC
+IT 6304A,Data Communications Lab,3:30-4:00 PM,Thursday,Faculty 3,LAB
 ITE 6201,Data Structures and Algorithms,1:30-2:00 PM,Wednesday,Mr. Dennis Martin Felix,LEC
 ITE 6201,Data Structures Lab,3:30-4:00 PM,Wednesday,Mr. Dennis Martin Felix,LAB
-CYBS 6271,Component Security (Controls),1:30-2:00 PM,Thursday,Mr. Dennis Martin Felix,LEC
-CS 6206,Principles of Operating Systems,8:00-8:30 AM,Monday,Ms. Carmencita Rabano,LEC
-CS 6206,OS Lab,10:30-11:00 AM,Monday,Ms. Carmencita Rabano,LAB
+BLC 6202,Decentralized Applications Development (Truffle),8:30-9:00 AM,Saturday,Faculty 1,LEC
+BLC 6202,Decentralized Applications Lab,1:30-2:00 PM,Saturday,Faculty 1,LAB
+CS 6105,Discrete Mathematics,9:30-10:00 AM,Saturday,Dr. Ronel Jaron Bilog,LEC
+CS 6202A,Discrete Structures 1,8:30-9:00 AM,Thursday,Dr. Richard Monreal,LEC
+IT 6372A,Game Engine Programming 2,1:30-2:00 PM,Wednesday,Faculty 3,LEC
+IT 6372A,Game Engine Programming Lab,3:30-4:00 PM,Wednesday,Faculty 3,LAB
+IT 6301B/IT6302A,Human-Computer Interaction,8:00-8:30 AM,Wednesday,Ms. Justin Nevpes,LEC
+IT 6301B,Human-Computer Interaction Lab,8:30-9:00 AM,Wednesday,Ms. Justin Nevpes,LAB
+CYBS 6375,Info Assurance & Security 5 (Cyber Forensics),1:30-2:00 PM,Tuesday,Faculty 1,LEC
+ITE 6206,Info Assurance and Security 2 (Web Attacks),1:30-2:00 PM,Monday,Mr. Dennis Martin Felix,LEC
+IT 6205A,Info Assurance Lab,10:30-11:00 AM,Wednesday,Dr. Ronel Jaron Bilog,LAB
+IT 6205A/6301C,Information Assurance and Security 1,8:00-8:30 AM,Wednesday,Dr. Ronel Jaron Bilog,LEC
+ITE6220,Information Management,1:00-1:30 PM,Friday,Mr. Alexis Morales,LEC
+ITE6220,Information Management Lab,3:30-4:00 PM,Friday,Mr. Alexis Morales,LAB
+IT 6304,Integrative Programming and Tech 2,8:00-8:30 AM,Tuesday,Mr. Dennis Martin Felix,LEC
+IT 6304,Integrative Programming Lab,10:00-10:30 AM,Tuesday,Mr. Dennis Martin Felix,LAB
+AI 6312A,Intelligent Systems (Machine Learning),1:30-2:00 PM,Wednesday,Faculty 1,LEC
+AI 6312A,Intelligent Systems Lab,3:30-4:00 PM,Wednesday,Faculty 1,LAB
+IT 6209,Introduction to Multimedia,1:30-2:00 PM,Saturday,Dr. Ronel Jaron Bilog,LEC
+AI 6312,Introduction to Robotics,8:30-9:00 AM,Thursday,Faculty 1,LEC
+AI 6312,Introduction to Robotics Lab,10:30-11:00 AM,Thursday,Faculty 1,LAB
+IT 6399,IT Capstone Project 2,8:00-9:30 AM,Thursday,Dr. Maksuda Sultana,LEC
+IT 6400/6397,IT Practicum,1:30-2:00 PM,Thursday,Ms. Carmencita Rabano,LEC
+AI 6107,Knowledge and Automatic Reasoning,8:30-9:30 AM,Wednesday,Faculty 2,LEC
+AI 6107,Knowledge and Automatic Reasoning Lab,11:00-12:00 PM,Wednesday,Faculty 2,LAB
+IT 6313,Linux Administration,1:30-2:30 PM,Tuesday,Faculty 2,LEC
+IT 6313,Linux Administration Lab,4:00-5:00 PM,Tuesday,Faculty 2,LAB
+CS 6301,Logic Design & Digital Circuits,1:00-1:30 PM,Thursday,Dr. Richard Monreal,LEC
+CS 6301,Logic Design Lab,3:30-4:00 PM,Thursday,Dr. Richard Monreal,LAB
+IT 6324A,Mobile Applications Design and Development 2,1:00-1:30 PM,Wednesday,Mr. Alexis Morales,LEC
+IT 6324A,Mobile Applications Lab,3:30-4:00 PM,Wednesday,Mr. Alexis Morales,LAB
+IT 6322A,Mobile Programming 1,8:00-8:30 AM,Friday,Mr. Alexis Morales,LEC
+IT 6322A,Mobile Programming 1 Lab,10:30-11:00 AM,Friday,Mr. Alexis Morales,LAB
+IT 6209,Multimedia Lab,3:30-4:00 PM,Saturday,Dr. Ronel Jaron Bilog,LAB
+IT 6317A,Multimedia Sound and Video,8:30-9:00 AM,Wednesday,Faculty 1,LEC
+IT 6317A,Multimedia Sound and Video Lab,10:30-11:00 AM,Wednesday,Faculty 1,LAB
+IT 6314A,Multimedia Systems,8:00-8:30 AM,Monday,Mr. Alexis Morales,LEC
+IT 6314A,Multimedia Systems,1:30-2:00 PM,Friday,Faculty 3,LEC
+IT 6314A,Multimedia Systems Lab,10:30-11:00 AM,Monday,Mr. Alexis Morales,LAB
+IT 6314A,Multimedia Systems Lab,3:30-4:00 PM,Friday,Faculty 3,LAB
 IT 6310,Network Security,1:30-2:00 PM,Tuesday,Ms. Carmencita Rabano,LEC
 IT 6310,Network Security Lab,3:30-4:00 PM,Tuesday,Ms. Carmencita Rabano,LAB
-CYBS 6300,Cyber Security Internship,1:30-2:00 PM,Thursday,Ms. Carmencita Rabano,LEC
-IT 6400/6397,IT Practicum,1:30-2:00 PM,Thursday,Ms. Carmencita Rabano,LEC
-CS 6305/6401A,CS Practicum,2:30-3:00 PM,Thursday,Ms. Carmencita Rabano,LEC
+CS 6206,OS Lab,10:30-11:00 AM,Monday,Ms. Carmencita Rabano,LAB
+IT 6283,Platform Tech Lab,10:00-10:30 AM,Monday,Mr. Dennis Martin Felix,LAB
+IT 6283,Platform Technologies 2,8:00-8:30 AM,Monday,Mr. Dennis Martin Felix,LEC
+CS 6206,Principles of Operating Systems,8:00-8:30 AM,Monday,Ms. Carmencita Rabano,LEC
+AI 6106,Python Programming Lab,3:30-4:00 PM,Wednesday,Dr. Ronel Jaron Bilog,LAB
+IT 6310A,Screenwriting,8:30-9:30 AM,Tuesday,Faculty 2,LEC
+IT 6310A,Screenwriting Lab,11:00-12:00 PM,Tuesday,Faculty 2,LAB
+IT 6207,System Integration and Architecture 2,8:30-9:30 AM,Wednesday,Faculty 3,LEC
+IT 6207,System Integration Lab,11:00-12:00 PM,Wednesday,Faculty 3,LAB
+CS 6306,Unified Functional Testing,1:00-1:30 PM,Thursday,Dr. Sharmaine Maglapuz,LEC
+CS 6306,Unified Functional Testing Lab,3:30-4:00 PM,Thursday,Dr. Sharmaine Maglapuz,LAB
+IT 6314,Web Application Development 1,1:30-2:00 PM,Tuesday,Ms. Justin Nevpes,LEC
+IT 6314,Web Application Lab,3:30-4:00 PM,Tuesday,Ms. Justin Nevpes,LAB
+ITE 6206,Web Attacks Lab,3:00-3:30 PM,Monday,Mr. Dennis Martin Felix,LAB
+IT 6317,Web Enhanced Animation Graphics,8:30-9:30 AM,Thursday,Faculty 2,LEC
